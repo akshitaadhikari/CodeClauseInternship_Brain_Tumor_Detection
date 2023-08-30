@@ -53,11 +53,12 @@ The dataset is split into training, validation, and test sets to train and evalu
 
 #### Confusion Matrix
 
-![Confusion Matrix](matrix.png)
+![Confusion Matrix](Result/matrix.png)
 
 #### Training and Validation Curves
 
-![Training and Validation Curves](graph.png)
+![Training and Validation Curves](Result/graph.png)
+![Training and Validation Curves](Result/graph1.png)
 
 ## License
 
